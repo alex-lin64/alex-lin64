@@ -4,7 +4,7 @@ I'm a junior at Brown University studying CS.  My previous internships involved 
 
 Currently, I'm working on a start-up.  Stay tuned!
 
-📫 How to reach me: alex_lin@brown.edu
+📫 How to reach me: alex_lin@alumni.brown.edu
 
 <!--
 **alex-lin64/alex-lin64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
