@@ -1,8 +1,6 @@
-### Hi all, my name is Alex Lin 👋
+### Hello.  
 
-I'm a junior at Brown University studying CS.  My previous internships involved work in big data and state-of-the-art deep learning, focusing on real-world applications (i.e. medical, defense, and finance).
-
-Currently, I'm working on a start-up.  Stay tuned!
+Currently, I'm working on a start-up. 
 
 📫 How to reach me: alex_lin@alumni.brown.edu
 
