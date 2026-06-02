@@ -1,7 +1,5 @@
 ### Hello.  
 
-Currently, I'm working on a start-up. 
-
 📫 How to reach me: alex_lin@alumni.brown.edu
 
 <!--
